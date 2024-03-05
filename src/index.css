@@ -141,7 +141,7 @@ button {
 
 @import url('https://fonts.googleapis.com/css2?family=Manjari&display=swap');
 
-body {
+body{
    display: flex;
    justify-content: center;
    font-family: 'Manjari', sans-serif;
@@ -151,7 +151,6 @@ body {
    width: 100%;
    padding: 16px;
    box-sizing: border-box;
-  
 }
 
 #root {
